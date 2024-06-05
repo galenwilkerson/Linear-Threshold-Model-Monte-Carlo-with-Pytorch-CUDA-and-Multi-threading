@@ -75,7 +75,7 @@ The model iteratively updates each node's state based on the activation rule unt
 1. Clone the repository:
     ```sh
     git clone https://github.com/your-username/Linear-Threshold-Model-Pytorch.git
-    cd ltm-simulation
+    cd Linear-Threshold-Model-Pytorch
     ```
 
 2. Create a virtual environment:
